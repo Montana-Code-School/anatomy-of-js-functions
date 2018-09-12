@@ -1,2 +1,1 @@
-# anatomy-of-js-functions
-# anatomy-of-js-functions
+# Anatomy of JavaScript Functions
